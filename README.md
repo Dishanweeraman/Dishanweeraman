@@ -78,13 +78,6 @@ LinkedIn   : linkedin.com/in/dishan-weeraman-919853281
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dishanweeraman/YDishanweeraman/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ### 📁 Featured Projects
 
