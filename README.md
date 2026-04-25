@@ -86,7 +86,7 @@ LinkedIn   : linkedin.com/in/dishan-weeraman-919853281
 ---
 
 <p align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+  <i>"The more that you read, the more things you will know. The more that you learn, the more places you'll go." — Dr. Seuss</i>
 </p>
 
 <p align="center">
